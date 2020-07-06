@@ -1,0 +1,21 @@
+process to help with the app building. 
+
+1. build the project
+    -creating the folder structure
+    - adding files
+    -connecting files
+
+2. NavBar
+    -2 links and a name.
+
+3. Grid
+    - images 
+    -titles
+    -descriptions
+    -animations
+    -javascript
+
+4. About page
+    - image 
+    -split column layout
+    -content
